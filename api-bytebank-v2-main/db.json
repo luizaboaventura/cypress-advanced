@@ -1,0 +1,542 @@
+{
+  "users": [
+    {
+      "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+      "nome": "Neilton Seguins",
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "788f434b-11ee-451d-b968-02d203bfc81a",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "16/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "745fed04-dd02-4e45-821e-166f524d1fb2",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "78c5d8c3-6f46-41d1-9152-7c2474bcd473",
+          "tipoTransacao": "Transferência",
+          "valor": "360",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "70eeaa13-cef8-4ad6-aa00-7dce77567748",
+          "tipoTransacao": "Depósito",
+          "valor": "200",
+          "data": "01/03/2023",
+          "mes": "Março"
+        },
+        {
+          "id": "998b4aa3-218b-4357-b97c-99340275734e",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "44d39acc-bc71-4dff-93d2-0020041988ed",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "d03bd133-5297-4212-9461-882ad21a643f",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "028ef19d-3182-4602-81bf-51294434b7e6",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "5986d3a7-ec5e-40ef-bf80-8c5f451b04cf",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "7ac10f26-2751-404f-8cf8-a71e7cd85f01",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "fd737477-1617-4124-aa6c-c07c3c29f9af",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "99a2d505-194a-4271-9e56-6020eec2a8b6",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "8984a5c9-2477-4c61-bf89-0e743564c966",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "7ff1889b-e52c-4622-a096-238d60faf325",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "e6ecd185-be0f-45db-9514-22751878e8f9",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "84e34a4d-8dd0-4faf-8d62-76ebbd71aa65",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "974635da-1ddf-4c32-8041-a907ee8ba18a",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "1d2b8f68-0d0c-4ae4-b05b-7359c7f62ef1",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "ca2d949b-1fb3-494b-9ff1-22af68a29b1b",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "7f108b03-9189-4649-9775-70d5ff47e308",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "a2b0ad22-1bfc-4282-8d09-f6afc1ae5ac7",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "e650fa36-1535-447c-b5c0-efd7a0b0425c",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "83ce5386-879e-4060-af80-2085c90ad25a",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "c1865ff8-d656-4a2d-94e3-db42d82445dc",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "3a00cd93-2bfa-4951-9dc2-3925e07fa132",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "c1854d96-764b-418a-8bff-a76d78f4030e",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "e089605b-72bc-42b4-9d8c-52632719c8eb",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "bf64b682-f27e-43b4-a972-d91020819018",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "321569d8-e045-4cd4-8f8b-487073fc15e9",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "33758353-edec-4800-84f1-19b37d11e0a5",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "865539fd-d7cd-445b-a1c5-a19eb53e47df",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "52db69a1-1472-4327-9f72-5c6d277440e5",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "94ae49dd-7d88-456b-8923-e92a3e04abd7",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "a715e2b1-2f18-4ff5-b02b-386966586f5c",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "8a715386-ab3a-430d-9a26-e07f3d5e8758",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "b78f4069-9f71-4043-b365-1b8ffa8f9cb8",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "55318b16-00bc-4939-a007-d33e03554737",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "63b27fa0-d2c2-470d-9db4-d30221c44c0a",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "aff151d1-b262-48a0-b859-394882e0fb75",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "5880c218-0058-45b8-b6ae-6ac36cdf04dc",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "b41a3b67-4978-42fd-bc2b-8b06ee818ddb",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "c5e9f83b-124e-41ea-a39e-1988e2e5f2d9",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "437c8e81-9d20-4eb7-bbb6-9abd2f6f3d39",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "4630f246-c7ec-455d-b548-15f4a8bba2b9",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "2f185fdf-f15c-45aa-9166-0ed4ddf1a4a3",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "f1755f9d-2a30-43cc-b421-beecfd59d476",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "ac6c70b8-b19d-4b7d-8c8c-41ae9b37134b",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "e4280c02-ef5c-4eec-b65c-8975c2bd8807",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "261c4fbb-a10c-4f59-b015-fdfcda110760",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "edd1dfea-bb3e-4f58-9f7d-3eb2f9701f01",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "3d567eea-281e-4a3c-93b6-dac389c2948a",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "77879275-544f-4ae8-a5a8-1cfe906e7d67",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "674df4e4-b575-4d84-8e53-ea9b25ccf50c",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "8fbddd3d-a8aa-4b24-9f64-d05c8e8176e4",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "7a4aa739-fcf3-4929-9270-4ffe5862a377",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "4bc59e2f-638b-4193-b2af-56671eac04aa",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "36e33cd3-5ea9-49b9-a81c-e7d2170802cd",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "29f44ab6-e9fa-43c1-bbf1-ffb07c31b8d8",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "f994dfc4-8a64-4dda-ba31-f60501124888",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "f508a3a7-d1d5-4ded-9533-ebe9c55824eb",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "2231a2b6-b917-43f9-af47-9b3ac93d91ae",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "7f22f6e2-bd5b-445d-8511-d13498f7c4d7",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "4ea055c5-c820-4189-a30a-42ed35121893",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "bd565c94-3101-464d-b6a3-6e17c42b5f47",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "f16ca5ba-34bf-4041-ac4e-1e8808f97121",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "4c9db309-073c-4550-b41c-57794ffb57d9",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "45a2e957-b932-464c-bc98-4b0067e98775",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "6301c6b5-a532-4b65-bb7b-cb6884ae12a4",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "03/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "b8a5eea8-461b-488b-a4c5-fdfb4a68dfac",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "04/10/2023",
+          "mes": "Outubro"
+        },
+        {
+          "id": "61131356-6b74-4b9c-9a41-7e5c853bf156",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "04/10/2023",
+          "mes": "Outubro"
+        }
+      ],
+      "saldo": 1020
+    },
+    {
+      "id": "c691fd15-dcd5-4f24-89da-cdfa3cef9d67",
+      "nome": "Marcos Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "b0411964-c8d4-4742-ad6d-15bb35b71b97",
+          "tipoTransacao": "Depósito",
+          "valor": "5000",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "f065a917-d283-4075-bbc3-4e1b3d8d1f3a",
+          "tipoTransacao": "Depósito",
+          "valor": "1500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        }
+      ],
+      "saldo": 3500
+    },
+    {
+      "id": "0f1ce276-a9b4-4940-b279-7073d6a51810",
+      "nome": "Calebe Batista",
+      "email": "luiza@email.com",
+      "senha": "NXNrJTSwlBqMTMH",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "7496863f-807b-42b8-8549-e7d303ec6039",
+      "nome": "Lucca Albuquerque",
+      "email": "Yasmin74@live.com",
+      "senha": "yaDCv28792aD_pX",
+      "transacoes": [],
+      "saldo": 0
+    }
+  ]
+}
